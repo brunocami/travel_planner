@@ -18,13 +18,13 @@ function Cards() {
                     src={img7}
                     text="Explore the hidden waterfall deep inside the Amazon Jungle"
                     label="Adventure"
-                    path="/"
+                    path="/travel_planner/"
                     />
                     <CardItem 
                     src={img9}
                     text="Explore the hidden waterfall deep inside the Amazon Jungle"
                     label="Adventure"
-                    path="/"
+                    path="/travel_planner/"
                     />
               </ul>
               <ul className="cards__items">
@@ -32,19 +32,19 @@ function Cards() {
                     src={img1}
                     text="Explore the hidden waterfall deep inside the Amazon Jungle"
                     label="Adventure"
-                    path="/"
+                    path="/travel_planner/"
                     />
                     <CardItem 
                     src={img2}
                     text="Explore the hidden waterfall deep inside the Amazon Jungle"
                     label="Adventure"
-                    path="/"
+                    path="/travel_planner/"
                     />
                     <CardItem 
                     src={img8}
                     text="Explore the hidden waterfall deep inside the Amazon Jungle"
                     label="Adventure"
-                    path="/"
+                    path="/travel_planner/"
                     />
               </ul>
             </div>
