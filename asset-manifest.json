@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel_planner/static/css/main.8317b7e5.css",
+    "main.js": "/travel_planner/static/js/main.0a41f11d.js",
+    "static/media/video-3.mp4": "/travel_planner/static/media/video-3.b16b5b2ff579a8d2396c.mp4",
+    "static/media/img-2.jpg": "/travel_planner/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/travel_planner/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/travel_planner/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-5.jpg": "/travel_planner/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-1.jpg": "/travel_planner/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-home.jpg": "/travel_planner/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-7.jpg": "/travel_planner/static/media/img-7.dfeef5257053ba651d89.jpg",
+    "static/media/img-9.jpg": "/travel_planner/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/travel_planner/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/img-3.svg": "/travel_planner/static/media/img-3.5ebd04010dc620ef40180d59d67711f8.svg",
+    "static/media/img-2.svg": "/travel_planner/static/media/img-2.b00d6c1916cd039c52513d520eb974db.svg",
+    "index.html": "/travel_planner/index.html",
+    "main.8317b7e5.css.map": "/travel_planner/static/css/main.8317b7e5.css.map",
+    "main.0a41f11d.js.map": "/travel_planner/static/js/main.0a41f11d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8317b7e5.css",
+    "static/js/main.0a41f11d.js"
+  ]
+}
