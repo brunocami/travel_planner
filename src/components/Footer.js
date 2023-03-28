@@ -29,34 +29,34 @@ function Footer() {
             <div className='footer-link-wrapper'>
                 <div className='footer-link-items'>
                     <h2>About Us</h2>
-                    <Link to='/sign-up'>How it works</Link>
-                    <Link to='/'>Testimonials</Link>
-                    <Link to='/'>Careers</Link>
-                    <Link to='/'>Investors</Link>
-                    <Link to='/'>Terms of Service</Link>
+                    <Link to='/travel_planner/sign-up'>How it works</Link>
+                    <Link to='/travel_planner/'>Testimonials</Link>
+                    <Link to='/travel_planner/'>Careers</Link>
+                    <Link to='/travel_planner/'>Investors</Link>
+                    <Link to='/travel_planner/'>Terms of Service</Link>
                 </div>
                 <div className='footer-link-items'>
                     <h2>Contact Us</h2>
-                    <Link to='/'>Contact</Link>
-                    <Link to='/'>Support</Link>
-                    <Link to='/'>Destinations</Link>
-                    <Link to='/'>Sponsorships</Link>
+                    <Link to='/travel_planner/'>Contact</Link>
+                    <Link to='/travel_planner/'>Support</Link>
+                    <Link to='/travel_planner/'>Destinations</Link>
+                    <Link to='/travel_planner/'>Sponsorships</Link>
                 </div>
             </div>
             <div className='footer-link-wrapper'>
                 <div className='footer-link-items'>
                     <h2>Videos</h2>
-                    <Link to='/'>Submit Video</Link>
-                    <Link to='/'>Ambassadors</Link>
-                    <Link to='/'>Agency</Link>
-                    <Link to='/'>Influencer</Link>
+                    <Link to='/travel_planner/'>Submit Video</Link>
+                    <Link to='/travel_planner/'>Ambassadors</Link>
+                    <Link to='/travel_planner/'>Agency</Link>
+                    <Link to='/travel_planner/'>Influencer</Link>
                 </div>
                 <div className='footer-link-items'>
                     <h2>Social Media</h2>
-                    <Link to='/'>Instagram</Link>
-                    <Link to='/'>Facebook</Link>
-                    <Link to='/'>Youtube</Link>
-                    <Link to='/'>Twitter</Link>
+                    <Link to='/travel_planner/'>Instagram</Link>
+                    <Link to='/travel_planner/'>Facebook</Link>
+                    <Link to='/travel_planner/'>Youtube</Link>
+                    <Link to='/travel_planner/'>Twitter</Link>
                 </div>
             </div>
         </div>
@@ -69,16 +69,16 @@ function Footer() {
                 </div>
                 <small className="website-rights">TRVL © 2020</small>
                 <div className="social-icons">
-                    <Link to='/' target="_blank" aria-label="Facebook" className='social-icon-link facebook'>
+                    <Link to='/travel_planner/' target="_blank" aria-label="Facebook" className='social-icon-link facebook'>
                         <i className="bi bi-meta"></i>
                     </Link>
-                    <Link to='/' target="_blank" aria-label="Instagram" className='social-icon-link facebook'>
+                    <Link to='/travel_planner/' target="_blank" aria-label="Instagram" className='social-icon-link facebook'>
                         <i className="bi bi-instagram"></i>
                     </Link>
-                    <Link to='/' target="_blank" aria-label="Twitter" className='social-icon-link facebook'>
+                    <Link to='/travel_planner/' target="_blank" aria-label="Twitter" className='social-icon-link facebook'>
                         <i className="bi bi-twitter"></i>
                     </Link>
-                    <Link to='/' target="_blank" aria-label="Linkedin" className='social-icon-link facebook'>
+                    <Link to='/travel_planner/' target="_blank" aria-label="Linkedin" className='social-icon-link facebook'>
                         <i className="bi bi-linkedin"></i>
                     </Link>
                 </div>

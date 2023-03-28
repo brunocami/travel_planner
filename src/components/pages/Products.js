@@ -46,13 +46,13 @@ export default function Products() {
                         src={img9}
                         text="Visita las Cataratas de Iguazú"
                         label="Misiones"
-                        path="/"
+                        path="/travel_planner/sign-up"
                     />
                     <CardItem
                         src={img3}
                         text="Visita las termas naturales de Entre Rios"
                         label="Entre rios"
-                        path="/"
+                        path="/travel_planner/sign-up"
                     />
                 </ul>
                 <ul className="cards__items">
@@ -60,19 +60,19 @@ export default function Products() {
                         src={img4}
                         text="Explore the hidden waterfall deep inside the Amazon Jungle"
                         label="Santa Fe"
-                        path="/"
+                        path="/travel_planner/sign-up"
                     />
                     <CardItem
                         src={img5}
                         text="Explore the hidden waterfall deep inside the Amazon Jungle"
                         label="Cordoba"
-                        path="/"
+                        path="/travel_planner/sign-up"
                     />
                     <CardItem
                         src={img8}
                         text="Explore the hidden waterfall deep inside the Amazon Jungle"
                         label="Chubut"
-                        path="/"
+                        path="/travel_planner/sign-up"
                     />
                 </ul>
             </div>
